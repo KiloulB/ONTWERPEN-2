@@ -49,7 +49,7 @@ De overige Classes erven deze eigenschappen, dit wordt aangegeven met de pijl. J
 
 ### Leerdoelen
 
-> 1. [ ] Ik maak met behulp van UML een Parent Class met een daarbij behorende Child Class
+> 1. [X] Ik maak met behulp van UML een Parent Class met een daarbij behorende Child Class
 
 ### Opdracht
 

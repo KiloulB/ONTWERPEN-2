@@ -22,8 +22,33 @@ Ze hebben allebei een aantal eigenschappen maar heeft ook de hierboven beschreve
 
 ### Leerdoelen
 
-> 1. [ ] Ik geef een Class 4 methodes
+### Bioscoopkaartjes - Class
 
+Property 1 - Klein blaadje
+Property 2 - Opvallende kleuren
+Property 3 - Kortingsbonnen
+
+Method 1 - Je kunt zien waar je moet zitten
+Method 2 - Kopen  
+
+### Bezoeker - Class
+
+Property 1 - Mens
+Property 2 - Ticket kopen
+Property 3 - Eten
+
+Method 1 - Lopen, zitten  
+Method 2 - Mogelijkheid om te eten
+
+### Film
+
+Property 1 - Audio
+Property 2 - Ondertiteling (niet altijd)
+Property 3 - Acteurs
+
+Method 1 - Horen
+Method 2 - Lezen
+Method 3 - Begrijpen
 ### Opdracht
 
 1. Neem de Class Bioscoopkaartje. Bedenk 3 properties en 2 methodes.

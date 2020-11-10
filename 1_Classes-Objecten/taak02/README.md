@@ -36,6 +36,13 @@ De drie voorbeelden hierboven laten zien dat een Class vaak een algemeen woord i
 
 ### Leerdoelen
 
+###### Game - Class
+
+object - Banden
+object - Spiegels
+object - Zitstoelen
+object - Ruiten
+object - Stuur
 > 1. [ ] Ik geef een zelfgekozen Class 5 eigenschappen
 > 2. [ ] Ik geef de 5 eigenschappen van het Object specifieke en relevante waardes
 

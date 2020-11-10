@@ -8,7 +8,7 @@ In Lucidcharts kun je uiteraard nog meer classes maken. Dat ga je in deze taak d
 
 ### Leerdoelen
 
-> 1. [ ] Ik maak met behulp van UML een Class met properties en methods
+![Eindresultaat](images/resultaat bilal.png)
 
 ### Opdracht
 

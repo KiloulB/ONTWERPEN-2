@@ -18,7 +18,7 @@ De drie tekens kun je ook gebruiken om de zichtbaarheid (toegankelijkheid) van m
 
 ### Leerdoelen
 
-> 1. [ ] Ik gebruik de drie zichtbaarheidsopties `public`, `private`, `protected` om de mate van erven aan te geven.
+> 1. [X] Ik gebruik de drie zichtbaarheidsopties `public`, `private`, `protected` om de mate van erven aan te geven.
 
 ### Opdracht
 

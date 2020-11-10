@@ -16,7 +16,7 @@ Om een Class met eigenschappen en methodes (properties en methods) op papier te 
 
 ### Leerdoelen
 
-> 1. [ ] Ik maak met behulp van UML een Class met properties en methods
+[Resultaat](images/resultaat bilal.png)
 
 ### Opdracht
 

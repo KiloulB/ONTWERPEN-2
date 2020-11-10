@@ -46,7 +46,8 @@ Om het in termen van Software Ontwikkeling te zeggen:
 
 ## Leerdoelen
 
-> 1. [ ] Ik noem 2 verschillen tussen een Class en een Object
+Het eerste verschil tussen een class en een object is dat er maar een class kan zijn van een object
+Het tweede verschil tussen een class en een object is dat een object altijd te maken heeft met een class  
 
 ## Opdracht
 
